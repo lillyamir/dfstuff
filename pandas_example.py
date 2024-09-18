@@ -46,4 +46,4 @@ df = load_data(data)
 # Automatically detect and one-hot encode categorical variables
 df_encoded, individual_encoded_dfs = auto_one_hot_encode(df)
 
-print(individual_encoded_dfs)
+print(individual_encoded_dfs) 
