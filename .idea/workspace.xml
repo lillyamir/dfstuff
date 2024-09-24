@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0195318d-dcd6-4eec-bfcd-4250b13a02d2" name="Changes" comment="test" />
+    <list default="true" id="0195318d-dcd6-4eec-bfcd-4250b13a02d2" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_example.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726615239976</updated>
       <workItem from="1726615244630" duration="4213000" />
-      <workItem from="1726692249174" duration="479000" />
+      <workItem from="1726692249174" duration="2153000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
